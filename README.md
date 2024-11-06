@@ -74,4 +74,4 @@ Na tela de favoritos, houve um problema significativo ao clicar na estrela de ma
 
  ## Visualização do Projeto 
 
-
+link do aplicativo = https://www.youtube.com/watch?v=o2jVSQSGGi4&t=11s
