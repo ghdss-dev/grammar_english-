@@ -47,6 +47,16 @@ Na tela de favoritos, houve um problema significativo ao clicar na estrela de ma
   
 ```
 
+## Testar o projeto no celular
+
+```bash 
+
+  $ Clicar na pasta build/outputs/flutter-apk/app-release.apk
+
+  $ Depois clicar na setinha para baixo do github - Download raw file
+
+```
+
 ## Como executar o projeto no terminal ou vscode
 
 ```bash
@@ -63,6 +73,5 @@ Na tela de favoritos, houve um problema significativo ao clicar na estrela de ma
 ```
 
  ## Visualização do Projeto 
-
 
 
